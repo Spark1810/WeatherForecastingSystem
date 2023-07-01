@@ -4,7 +4,6 @@ import requests
 from plotly import graph_objects as go
 import pandas as pd
 import numpy as np
-import seaborn as sns
 import pickle
 from PIL import Image
 import time
