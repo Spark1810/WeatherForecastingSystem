@@ -8,7 +8,6 @@ import pickle
 from PIL import Image
 import time
 
-
 st.set_page_config(page_title='Weather Forecasting Prediction System', page_icon=":rainbow:")
 
 st.title("Weather Forecasting System 🌞🍃")
