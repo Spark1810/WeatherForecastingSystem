@@ -165,6 +165,4 @@ elif choice == 'Forecast':
 
 # ============================================================================================
 elif choice == "About Us":
-    st.header("CREATED BY _**NAME - Roll no**_")
-    st.subheader("UNDER THE GUIDENCE OF _**Guide name**_")
-
+    st.header("CREATED BY _**Sudharshan Vijay**_")
